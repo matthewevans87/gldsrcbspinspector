@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/GldSrcBSPInspector/GldSrcBSPInspector.ConsoleApp/bsps
+obj
+bin
+.suo
+.user

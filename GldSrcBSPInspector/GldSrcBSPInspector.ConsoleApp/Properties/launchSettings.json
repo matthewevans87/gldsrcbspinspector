@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GldSrcBSPInspector.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"./bsps\""
+    }
+  }
+}
